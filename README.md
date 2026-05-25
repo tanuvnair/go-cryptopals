@@ -1,2 +1,3 @@
 # go-cryptopals
-Solving the cryptopals crypto challenges in Go
+
+Solving the [Cryptopals Crypto Challenges](https://cryptopals.com/) in Go.
